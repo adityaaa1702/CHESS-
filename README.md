@@ -9,7 +9,7 @@ This is a simple chess program written in Python. It allows two players to play 
 3. Follow the on-screen instructions to input your moves in algebraic notation (e.g., "e2 e4").
 4. Enjoy playing chess!
 
-        ##or
+## or
 
 JUST run the MAIN.exe file in build folder   
 
